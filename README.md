@@ -1,5 +1,5 @@
 
-"""
+
 # 🏏 IPL Data Analysis using PySpark on Databricks
 
 This project showcases an end-to-end data analysis pipeline built on **PySpark** and **Databricks**, focused on IPL (Indian Premier League) datasets.
@@ -45,6 +45,6 @@ This project showcases an end-to-end data analysis pipeline built on **PySpark**
 
 **Mandeep Singh**  
 📫 [GitHub](https://github.com/mandeeps1nghh) | [LinkedIn](https://linkedin.com/in/mandeepsingh0106)
-"""
+
 
 
